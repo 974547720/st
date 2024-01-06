@@ -1,1 +1,1 @@
-a repository of learning
+一个设计模式学习的分支
